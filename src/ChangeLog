@@ -1,0 +1,1764 @@
+commit 9d2845b2b6b8047c7fbeb38274963522f2f169c5
+Author: Amitakhya Phukan <aphukan@fedoraproject.org>
+Date:   Mon Sep 21 12:17:57 2009 +0530
+
+    Updating Assamese translations
+
+ po/as.po | 1065 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 540 insertions(+), 525 deletions(-)
+
+commit 965303dbd965cf82089aec4d5729f5c7431fbb83
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Mon Sep 21 05:24:44 2009 +0200
+
+    Updated Czech translation
+
+ po/cs.po |   98 ++++++++++++--------------------------------------------------
+ 1 files changed, 19 insertions(+), 79 deletions(-)
+
+commit 6dc122dba99a605c1c4d785b97d5653822bb0348
+Author: Daniel Nylander <po@danielnylander.se>
+Date:   Sun Sep 20 00:25:38 2009 +0200
+
+    Updated Swedish translation
+
+ po/sv.po |   10 +++++-----
+ 1 files changed, 5 insertions(+), 5 deletions(-)
+
+commit 1da036b1805e3496da7e3b84597f1d6b829286c9
+Author: Gabor Kelemen <kelemeng@gnome.hu>
+Date:   Sat Sep 19 17:27:46 2009 +0200
+
+    Added Hungarian translation by Balazs Mesko
+
+ cpufreq/help/Makefile.am |    2 +-
+ cpufreq/help/hu/hu.po    |  577 ++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 578 insertions(+), 1 deletions(-)
+
+commit 9c70afc0db42748ba61c9e66728a46989398267c
+Author: dooteo <dooteo@dhcppc1.zundan.com>
+Date:   Thu Sep 17 16:54:22 2009 +0200
+
+    Deleted english image
+
+ .../eu/figures/system-monitor-applet_window.png    |  Bin 447 -> 0 bytes
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1098de1b2f79c03adc64950543041dc2fe6fe9da
+Author: dooteo <dooteo@dhcppc1.zundan.com>
+Date:   Thu Sep 17 16:52:18 2009 +0200
+
+    Deleted english images
+
+ .../eu/figures/cpufreq-applet-preferences-smp.png  |  Bin 9428 -> 0 bytes
+ .../eu/figures/cpufreq-applet-selector-both.png    |  Bin 7739 -> 0 bytes
+ .../help/eu/figures/cpufreq-applet-selector.png    |  Bin 8836 -> 0 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 03f12341b5a4f3f7cc990e504c5c6acdff4847bd
+Author: dooteo <dooteo@dhcppc1.zundan.com>
+Date:   Thu Sep 17 16:49:44 2009 +0200
+
+    Delete english images
+
+ charpick/help/eu/figures/charpalette_applet.png  |  Bin 1797 -> 0 bytes
+ charpick/help/eu/figures/charpick_characters.png |  Bin 36598 -> 0 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 121f8e63feda05a4ef8b977f92234965a1bb745d
+Author: dooteo <dooteo@dhcppc1.zundan.com>
+Date:   Thu Sep 17 16:48:14 2009 +0200
+
+    delete english image
+
+ gweather/docs/eu/figures/gweather_applet.png |  Bin 1225 -> 0 bytes
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bb4bf9ec6d970cbce135a893c35d16f17a95bb43
+Author: dooteo <dooteo@dhcppc1.zundan.com>
+Date:   Thu Sep 17 16:45:24 2009 +0200
+
+    deleted english images
+
+ mixer/docs/eu/figures/volumecontrol_applet.png |  Bin 987 -> 0 bytes
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 91ede7b489e9b71c0c37182cdf46246e3a6403c2
+Author: Manoj Kumar Giri <mgiri@mgiri.csb>
+Date:   Thu Sep 17 19:06:38 2009 +0530
+
+    Upadated Oriya Translation
+
+ po/or.po |   70 +++++++++++++++++++++++---------------------------------------
+ 1 files changed, 26 insertions(+), 44 deletions(-)
+
+commit f9664c976b1a0b256aa65ce8d0cc5771e9fed291
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Wed Sep 16 23:14:58 2009 +0200
+
+    Updated German doc translation
+
+ cpufreq/help/de/de.po |  482 +++++++++++++++++++++++++------------------------
+ 1 files changed, 244 insertions(+), 238 deletions(-)
+
+commit 813c695956cc4485ecfc5b4584e85e93044b3039
+Author: Maxim V. Dziumanenko <dziumanenko@gmail.com>
+Date:   Wed Sep 16 19:42:37 2009 +0300
+
+    Added Ukrainian translation
+
+ po/uk.po |   64 +++++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 35 insertions(+), 29 deletions(-)
+
+commit eb374ce4c1784be1ceda165ab49f353ee4f08bc8
+Author: Adi Roiban <adi@roiban.ro>
+Date:   Wed Sep 16 15:43:06 2009 +0300
+
+    Updated Romanian translation
+
+ po/ro.po | 1668 ++++++++++++++++++++++----------------------------------------
+ 1 files changed, 579 insertions(+), 1089 deletions(-)
+
+commit 5244fd7996ea93aef4d60b663596e36d9426b26b
+Author: Matej Urbančič <mateju@svn.gnome.org>
+Date:   Wed Sep 16 13:46:35 2009 +0200
+
+    Updated Slovenian translation
+
+ po/sl.po |  970 ++++++++++++++++++++++++++++----------------------------------
+ 1 files changed, 444 insertions(+), 526 deletions(-)
+
+commit 6fc0aeb3ce0d41d983cb8c5d8e667a5002b416c4
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:   Wed Sep 16 16:43:14 2009 +0530
+
+    hindi update by Rajesh Ranjan
+
+ po/hi.po |  183 ++++++++++++++++++--------------------------------------------
+ 1 files changed, 52 insertions(+), 131 deletions(-)
+
+commit 8ccfd088c574630677601d3bed17f45594168a5b
+Author: Mohammad Anwari <mdamt@mnots.eu>
+Date:   Wed Sep 16 11:55:56 2009 +0300
+
+    Removed unused plural translations
+
+ po/id.po | 3495 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 1654 insertions(+), 1841 deletions(-)
+
+commit 5dc7697baafd12601aa628b59ec74967a4871e65
+Author: Shankar Prasad <svenkate@redhat.com>
+Date:   Tue Sep 15 17:26:35 2009 +0530
+
+    Updated Kannada(kn) translation
+
+ po/kn.po |  470 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 228 insertions(+), 242 deletions(-)
+
+commit 665a9490cd3dd28b405935632a1644ea474ab98a
+Author: Ask H. Larsen <asklarsen@gmail.com>
+Date:   Sun Sep 13 03:20:09 2009 +0200
+
+    Updated Danish translation
+
+ po/da.po |  438 ++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 230 insertions(+), 208 deletions(-)
+
+commit 64809a33f9f6d22e1a15e496179358911a3c0346
+Author: Philip Withnall <philip@tecnocode.co.uk>
+Date:   Sat Sep 12 22:16:45 2009 +0100
+
+    Updated British English translation
+
+ po/en_GB.po |  634 +++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 331 insertions(+), 303 deletions(-)
+
+commit 14a734e6f5d766ec311e8825e6e190cd337d7ddf
+Author: Kostas Papadimas <pkst@gnome.org>
+Date:   Sat Sep 12 19:42:15 2009 +0300
+
+    Updated Greek help translation.
+
+ gswitchit/help/el/el.po     |  160 +++---
+ invest-applet/docs/el/el.po |  364 ++++++++++---
+ multiload/docs/el/el.po     |  603 +++++++++++++-------
+ stickynotes/docs/el/el.po   | 1272 +++++--------------------------------------
+ 4 files changed, 913 insertions(+), 1486 deletions(-)
+
+commit 9188d5014bbb400d79f0268705a89eb4aaba15be
+Author: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>
+Date:   Sat Sep 12 22:22:22 2009 +0800
+
+    Updated Traditional Chinese translation(Hong Kong and Taiwan)
+
+ cpufreq/help/Makefile.am        |    2 +-
+ cpufreq/help/zh_HK/zh_HK.po     |  398 +++++++++++++++++++++++++++++++++++++++
+ cpufreq/help/zh_TW/zh_TW.po     |  398 +++++++++++++++++++++++++++++++++++++++
+ po/zh_HK.po                     |   60 +++---
+ po/zh_TW.po                     |   60 +++---
+ trashapplet/docs/Makefile.am    |    2 +-
+ trashapplet/docs/zh_HK/zh_HK.po |  221 ++++++++++++++++++++++
+ trashapplet/docs/zh_TW/zh_TW.po |  221 ++++++++++++++++++++++
+ 8 files changed, 1300 insertions(+), 62 deletions(-)
+
+commit a5cf6262af537ca55a9397d68c339c14a27c9455
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sat Sep 12 14:56:24 2009 +1200
+
+    stickynotes: Further tweaks to the .ui duplicate name issue.
+    
+    Fixing a few cases where the wrong widget was still being read
+    (should have been no crash though).
+
+ stickynotes/stickynotes.ui       |    2 +-
+ stickynotes/stickynotes_applet.c |    2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 1e168c5046a5d0599cfc163960bd5be5163d7de9
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sat Sep 12 14:48:27 2009 +1200
+
+    stickynotes: Rename duplicate entries in the .ui file.
+    
+    As reported in bug 594797, these duplicate entries are crashing
+    with newer GTK+. With older GTK+ desensitisation isn't working
+    properly.
+
+ stickynotes/stickynotes.ui       |    8 +++---
+ stickynotes/stickynotes_applet.c |   53 ++++++++++++++++++-------------------
+ 2 files changed, 30 insertions(+), 31 deletions(-)
+
+commit cd17796cea15715425d7a5f6a89c564015670d66
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Thu Sep 10 20:50:39 2009 +0200
+
+    Updated German translation
+
+ po/de.po |  586 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 302 insertions(+), 284 deletions(-)
+
+commit 0c6e9598985e73df677abd7f2148e5ea9ad2bb3d
+Author: Enrico Minack <enrico-minack@gmx.de>
+Date:   Thu Sep 10 18:42:32 2009 +0200
+
+    invest-applet: Stock data are not lost when update fails.
+    
+    When the update fails due to lost internet connection, the
+    applet could no longer show the latest stock data, see Bug #592377.
+    This patch fixes this bug.
+
+ invest-applet/invest/quotes.py |   14 +++++++-------
+ 1 files changed, 7 insertions(+), 7 deletions(-)
+
+commit a00f823edc562c2687533d90f4708344fffb4546
+Author: Gintautas Miliauskas <gintautas@miliauskas.lt>
+Date:   Thu Sep 10 18:09:13 2009 +0300
+
+    Updated Lithuanian translation.
+
+ po/lt.po |  614 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 321 insertions(+), 293 deletions(-)
+
+commit a6d52a1e31d181a0ff514ca8101bce0476211a3b
+Author: krishnababu k <kkrothap@redhat.ocm>
+Date:   Thu Sep 10 16:10:53 2009 +0530
+
+    Updated Telugu Translation
+
+ po/te.po |  611 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 296 insertions(+), 315 deletions(-)
+
+commit e551dfcb9b8f7804425fe64d2ffcbeb1c52c39c3
+Author: Sandeep Shedmake <sshedmak@redhat.com>
+Date:   Wed Sep 9 17:35:29 2009 +0530
+
+    Updated Marathi Translations
+
+ po/mr.po |  715 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 329 insertions(+), 386 deletions(-)
+
+commit 1d1f9806fdf28b76f9cbe708625e1d2609551125
+Author: Denis ARNAUD <darnaud@src.gnome.org>
+Date:   Wed Sep 9 06:08:01 2009 +0200
+
+    Updated breton translation
+
+ po/br.po |  188 ++++++++++++++++++++++++++++++++++++++++++--------------------
+ 1 files changed, 127 insertions(+), 61 deletions(-)
+
+commit cc20082d1ce470759827ba7315ed5547ff3a385b
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Tue Sep 8 22:43:04 2009 +1200
+
+    2.27.92 Release
+    
+    Release notes, plus disabling of make check for invest applet until
+    I can get it working out of tree.
+
+ NEWS                             |   13 +++++++++++++
+ configure.in                     |    2 +-
+ invest-applet/invest/Makefile.am |    2 +-
+ invest-applet/invest/__init__.py |    6 +++---
+ invest-applet/invest/test.py     |    6 ++++++
+ 5 files changed, 24 insertions(+), 5 deletions(-)
+
+commit d90a6efd19f0a17f2a65dceb95f5378b1cdf83c2
+Author: A S Alam <aalam@users.sf.net>
+Date:   Tue Sep 8 07:13:10 2009 +0530
+
+    UPdating for Punjabi
+
+ po/pa.po |  700 +++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 369 insertions(+), 331 deletions(-)
+
+commit 19101fc45ec87a71562118e120f75488b82aabb4
+Author: Gabor Kelemen <kelemeng@gnome.hu>
+Date:   Sun Sep 6 02:23:48 2009 +0200
+
+    Hungarian translation updated
+
+ po/hu.po |  630 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 308 insertions(+), 322 deletions(-)
+
+commit 9471e04ee0cc8571103fa3e07fc562555f3bd4f8
+Author: Enrico Minack <enrico-minack@gmx.de>
+Date:   Sat Sep 5 11:46:34 2009 +0200
+
+    invest-applet: Added more descriptive debug messages.
+
+ invest-applet/invest/__init__.py      |   15 ++++++++++++---
+ invest-applet/invest/chart.py         |    6 +++---
+ invest-applet/invest/invest-applet.py |   11 ++++++-----
+ invest-applet/invest/preferences.py   |    5 +++--
+ invest-applet/invest/quotes.py        |    9 +++++----
+ invest-applet/invest/widgets.py       |    4 ++--
+ 6 files changed, 31 insertions(+), 19 deletions(-)
+
+commit 93044cd1510e0e3fe83a9a321a221f5c844854f7
+Author: Luca Ferretti <elle.uca@libero.it>
+Date:   Wed Sep 2 00:06:49 2009 +0200
+
+    Updated Italian translation
+
+ po/it.po |   60 +++++++++++++++++++-----------------------------------------
+ 1 files changed, 19 insertions(+), 41 deletions(-)
+
+commit b19c7725825d6ed8b64263096f252691266eb0d8
+Author: Luca Ferretti <elle.uca@libero.it>
+Date:   Wed Sep 2 00:05:09 2009 +0200
+
+    Add Behdad's git.mk to autogenerate .gitignore
+
+ Makefile.am                              |    2 +
+ accessx-status/Makefile.am               |    2 +
+ accessx-status/docs/Makefile.am          |    2 +
+ accessx-status/pixmaps/Makefile.am       |    2 +
+ battstat/Makefile.am                     |    2 +
+ battstat/apmlib/Makefile.am              |    2 +
+ battstat/docs/Makefile.am                |    2 +
+ battstat/sounds/Makefile.am              |    2 +
+ charpick/Makefile.am                     |    2 +
+ charpick/help/Makefile.am                |    2 +
+ cpufreq/Makefile.am                      |    2 +
+ cpufreq/help/Makefile.am                 |    2 +
+ cpufreq/pixmaps/Makefile.am              |    2 +
+ cpufreq/src/Makefile.am                  |    2 +
+ cpufreq/src/cpufreq-selector/Makefile.am |    2 +
+ drivemount/Makefile.am                   |    2 +
+ drivemount/help/Makefile.am              |    2 +
+ geyes/Makefile.am                        |    2 +
+ geyes/docs/Makefile.am                   |    2 +
+ geyes/themes/Makefile.am                 |    2 +
+ git.mk                                   |  183 ++++++++++++++++++++++++++++++
+ gkb-new/Makefile.am                      |    2 +
+ gkb-new/xmodmap.sun/Makefile.am          |    2 +
+ gkb-new/xmodmap/Makefile.am              |    2 +
+ gswitchit/Makefile.am                    |    2 +
+ gswitchit/help/Makefile.am               |    2 +
+ gweather/Makefile.am                     |    2 +
+ gweather/docs/Makefile.am                |    2 +
+ invest-applet/Makefile.am                |    2 +
+ invest-applet/data/Makefile.am           |    2 +
+ invest-applet/data/art/Makefile.am       |    2 +
+ invest-applet/docs/Makefile.am           |    2 +
+ invest-applet/invest/Makefile.am         |    2 +
+ man/Makefile.am                          |    2 +
+ mini-commander/Makefile.am               |    2 +
+ mini-commander/help/Makefile.am          |    2 +
+ mini-commander/src/Makefile.am           |    2 +
+ mixer/Makefile.am                        |    2 +
+ mixer/docs/Makefile.am                   |    2 +
+ modemlights/Makefile.am                  |    2 +
+ multiload/Makefile.am                    |    2 +
+ multiload/docs/Makefile.am               |    2 +
+ null_applet/Makefile.am                  |    2 +
+ stickynotes/Makefile.am                  |    2 +
+ stickynotes/data/Makefile.am             |    2 +
+ stickynotes/docs/Makefile.am             |    2 +
+ stickynotes/pixmaps/Makefile.am          |    2 +
+ trashapplet/Makefile.am                  |    2 +
+ trashapplet/docs/Makefile.am             |    2 +
+ trashapplet/src/Makefile.am              |    2 +
+ 50 files changed, 281 insertions(+), 0 deletions(-)
+
+commit 2234307c31d0bc479b9c9415374ab2608ff7f5f2
+Author: Yaron Shahrabani <sh.yaron@gmail.com>
+Date:   Tue Sep 1 18:19:57 2009 +0300
+
+    Updated Hebrew translation
+
+ po/he.po |   47 +++++++++++++++++++++++------------------------
+ 1 files changed, 23 insertions(+), 24 deletions(-)
+
+commit 5683847336e20e5c287712356dbabaa51acae907
+Author: Claude Paroz <claude@2xlibre.net>
+Date:   Tue Sep 1 09:17:14 2009 +0200
+
+    Improved French translation
+
+ po/fr.po |   16 ++++++++--------
+ 1 files changed, 8 insertions(+), 8 deletions(-)
+
+commit e4f60853ecce56a117d5330056dd1f177f0ee347
+Author: Sweta Kothari <swkothar@redhat.com>
+Date:   Mon Aug 31 14:11:37 2009 +0530
+
+    Updated Gujarati Translations
+
+ po/gu.po |  590 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 293 insertions(+), 297 deletions(-)
+
+commit 0040a5c8ee2f5f7b87fed4be969ed97bbb5b6042
+Author: Runa Bhattacharjee <runab@redhat.com>
+Date:   Mon Aug 31 12:39:21 2009 +0530
+
+    Updated Bengali India Translations
+
+ po/bn_IN.po |   90 ++++++++++++++++++++++++++++++++---------------------------
+ 1 files changed, 49 insertions(+), 41 deletions(-)
+
+commit 8779eb13f30c501ced779ece85d2bd52ce55d548
+Author: Duarte Loreto <happyguy_pt@hotmail.com>
+Date:   Mon Aug 31 01:51:27 2009 +0100
+
+    Updated Portuguese translation
+
+ po/pt.po |  636 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 326 insertions(+), 310 deletions(-)
+
+commit 9d648ea33db33a4f2d7944c8223a46e0a61824a0
+Author: Baris Cicek <baris@teamforce.name.tr>
+Date:   Sun Aug 30 18:54:59 2009 +0300
+
+    Updated Turkish translaion.
+
+ po/tr.po | 1629 ++++++++++++++++++++++++++++++++++---------------------------
+ 1 files changed, 908 insertions(+), 721 deletions(-)
+
+commit 7a06196213334fdeb953eb4c80f0543a4540b8ee
+Author: Tomasz Dominikowski <dominikowski@gmail.com>
+Date:   Sat Aug 29 13:41:14 2009 +0200
+
+    Updated Polish translation
+
+ po/pl.po | 1082 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 510 insertions(+), 572 deletions(-)
+
+commit 84dbf32041dbb577d2983ed1f5a0697362143e23
+Author: Claude Paroz <claude@2xlibre.net>
+Date:   Fri Aug 28 20:28:54 2009 +0200
+
+    Updated French translation
+
+ po/fr.po |   50 +++++++++++++++++++++++++++++---------------------
+ 1 files changed, 29 insertions(+), 21 deletions(-)
+
+commit 6cdb89106f5c0f3a4f0e4f4224dcb82e80558c35
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Aug 28 21:20:03 2009 +1200
+
+    invest: Fix refreshing.
+    
+    Its the all too common no return value from a timer callback bug.
+    Patch from Enrico Minack. Fixes bug 571033.
+
+ invest-applet/invest/quotes.py |   41 ++++++++++++++++++++-------------------
+ 1 files changed, 21 insertions(+), 20 deletions(-)
+
+commit 7699f4796b86f3d592e91c769478b2d7db7e8b6c
+Author: mpopovic@git.gnome.org <mpopovic@src.gnome.org>
+Date:   Thu Aug 27 23:44:24 2009 +0200
+
+    Updated Serbian translation
+
+ po/sr.po       |  497 +++++++++++++++++++++++++++++---------------------------
+ po/sr@latin.po |  497 +++++++++++++++++++++++++++++---------------------------
+ 2 files changed, 520 insertions(+), 474 deletions(-)
+
+commit ac505a62fd335f4d2e7e697b81087e7cd158911a
+Author: Inaki Larranaga Murgoitio <dooteo@zundan.com>
+Date:   Wed Aug 26 12:57:53 2009 +0200
+
+    Updated Basque language
+
+ po/eu.po |  567 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 272 insertions(+), 295 deletions(-)
+
+commit 5785be8859d10d53658a861f09c8f94210598c12
+Author: Ani <peter.ani@gmail.com>
+Date:   Wed Aug 26 15:06:53 2009 +0530
+
+    Updated Malayalam Translations
+
+ po/ml.po |  665 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 334 insertions(+), 331 deletions(-)
+
+commit 418bacd2b71800c7dc2ee143be5a0e4e318bc023
+Author: Jonh Wendell <jwendell@gnome.org>
+Date:   Tue Aug 25 11:10:28 2009 -0300
+
+    Updated Brazilian Portuguese translation
+
+ po/pt_BR.po |   24 +++++++++++-------------
+ 1 files changed, 11 insertions(+), 13 deletions(-)
+
+commit 220ee74c69fa1201edce0f5964bbba10606c1dbb
+Author: ifelix <ifelix@redhat.com>
+Date:   Tue Aug 25 17:15:41 2009 +0530
+
+    Updated Tamil Translations
+
+ po/ta.po |  101 ++++++++++++++++----------------------------------------------
+ 1 files changed, 26 insertions(+), 75 deletions(-)
+
+commit a5b0837cc14072f28ede3e90ab0f829231fc3802
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Tue Aug 25 21:21:51 2009 +1200
+
+    GNOME 2.27.91
+
+ NEWS         |   17 +++++++++++++++++
+ configure.in |    2 +-
+ 2 files changed, 18 insertions(+), 1 deletions(-)
+
+commit 5834bebe8f2ad0aa24951db6398f1f7d746a5bff
+Author: Carles Ferrando <carles.ferrando@gmail.com>
+Date:   Mon Aug 24 20:27:05 2009 +0200
+
+    Added Catalan (Valencian) translation
+
+ po/LINGUAS        |    1 +
+ po/ca@valencia.po | 3736 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 3737 insertions(+), 0 deletions(-)
+
+commit 63375322c345af7662e61868e0150ace885f7e38
+Author: Daniel Nylander <po@danielnylander.se>
+Date:   Sun Aug 23 20:10:17 2009 +0200
+
+    Updated Swedish translation
+
+ po/sv.po |   35 +++++++++++++++++------------------
+ 1 files changed, 17 insertions(+), 18 deletions(-)
+
+commit 028473471d16eb23a1526ebc37e77df7ca7926d1
+Author: Changwoo Ryu <cwryu@debian.org>
+Date:   Sun Aug 23 07:05:40 2009 +0900
+
+    Update Korean translation
+
+ po/ko.po |  566 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 265 insertions(+), 301 deletions(-)
+
+commit af7478ac915379268dac1aa2e9539e719003dfca
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Sat Aug 22 18:43:32 2009 +0200
+
+    Fixed bug #591916
+
+ trashapplet/docs/de/de.po |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+commit 819cab74aca8eb0cb70241bec60636870ce8d5a8
+Author: Kjartan Maraas <kmaraas@gnome.org>
+Date:   Sat Aug 22 11:23:59 2009 +0200
+
+    Updated Norwegian bokmål translation.
+
+ po/nb.po |   37 ++++++++++++++++++-------------------
+ 1 files changed, 18 insertions(+), 19 deletions(-)
+
+commit 8688a643ea8ff5b0b39814310538a9c2bd3a7f96
+Author: Khaled Hosny <khaledhosny@eglug.org>
+Date:   Fri Aug 21 20:07:50 2009 +0300
+
+    Updated Arabic translation
+
+ po/ar.po |   22 +++++++++++-----------
+ 1 files changed, 11 insertions(+), 11 deletions(-)
+
+commit c78bf1459b818cf8f263c029b4e15aab6d5a98ae
+Author: Ivar Smolin <okul@linux.ee>
+Date:   Fri Aug 21 16:52:25 2009 +0300
+
+    Updating Estonian translation
+
+ po/et.po |   19 +++++++++----------
+ 1 files changed, 9 insertions(+), 10 deletions(-)
+
+commit 2020ebc94e47144ac5a992e12172292a7ad1c104
+Author: Khaled Hosny <khaledhosny@eglug.org>
+Date:   Fri Aug 21 08:18:45 2009 +0300
+
+    Updated Arabic translation
+
+ po/ar.po | 1719 +++++++++++++++++++++++++++++++++++++++++---------------------
+ 1 files changed, 1139 insertions(+), 580 deletions(-)
+
+commit 8e0777ff437e0afb2504679c9cb30c679766b8f8
+Author: Theppitak Karoonboonyanan <thep@linux.thai.net>
+Date:   Thu Aug 20 14:27:44 2009 +0700
+
+    Updated Thai translation.
+
+ po/th.po |  639 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 328 insertions(+), 311 deletions(-)
+
+commit 4ad39871f9478b798afd514062088f28127bf805
+Author: Antón Méixome <meixome@mancomun.org>
+Date:   Wed Aug 19 16:54:23 2009 +0200
+
+    Updated Galician Translation
+
+ po/gl.po |   94 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 47 insertions(+), 47 deletions(-)
+
+commit f2a00a0f3a6b52eb3827da7c425fa0980c1ff50b
+Author: Alexander Shopov <ash@contact.bg>
+Date:   Tue Aug 18 08:12:51 2009 +0300
+
+    Updated Bulgarian translation
+
+ po/bg.po |  411 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 190 insertions(+), 221 deletions(-)
+
+commit b758c6dc583a356681d8e803863cc89f4d64dbb3
+Author: Tommi Vainikainen <thv@iki.fi>
+Date:   Mon Aug 17 00:04:45 2009 +0300
+
+    Updated Finnish translation
+
+ po/fi.po |   23 +++++++++++------------
+ 1 files changed, 11 insertions(+), 12 deletions(-)
+
+commit 22c07a80bd1263ca5a48786f31b38a57eba9b21f
+Author: Milo Casagrande <milo@ubuntu.com>
+Date:   Sun Aug 16 16:40:38 2009 +0200
+
+    Updated Italian translation
+     * Fixes part of bug 591923
+
+ geyes/docs/it/it.po |   13 ++++++++-----
+ 1 files changed, 8 insertions(+), 5 deletions(-)
+
+commit f08b2bd3b68fa575f4f3ccbfd84572dff4d84d7b
+Author: Jorge González <jorgegonz@svn.gnome.org>
+Date:   Sun Aug 16 16:23:21 2009 +0200
+
+    Updated Spanish translation
+
+ po/es.po |   37 ++++++++++++++++++-------------------
+ 1 files changed, 18 insertions(+), 19 deletions(-)
+
+commit 1d110723a0d47d990308e957323c46b03af1b4e4
+Author: Seán de Búrca <leftmostcat@gmail.com>
+Date:   Sun Aug 16 01:57:27 2009 -0600
+
+    Updated Irish translation
+
+ po/ga.po |   59 +++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 29 insertions(+), 30 deletions(-)
+
+commit 99024034292b85f28a9f2973e5b6557229e50589
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun Aug 16 16:57:51 2009 +1200
+
+    trashapplet: Revert a string change.
+    
+    It turns out gettext isn't as smart as I gave it credit for. See
+    bug 591904.
+
+ trashapplet/src/trash-empty.c |   13 +++++++++----
+ 1 files changed, 9 insertions(+), 4 deletions(-)
+
+commit ac5f1ab07308d5ed7677b2e905c732b873fa77ea
+Author: Krix Apolinário <krixapolinario@gmail.com>
+Date:   Sat Aug 15 14:26:26 2009 -0300
+
+    Updated Brazilian Portuguese translation.
+    
+    Reviewed by Djavan Fagundes.
+
+ po/pt_BR.po |  474 +++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 250 insertions(+), 224 deletions(-)
+
+commit 7ea575bfe54050745b5ffc858a176ceec3d8fa12
+Author: Andre Klapper <a9016009@gmx.de>
+Date:   Sat Aug 15 17:20:01 2009 +0200
+
+    Updated Czech translation.
+
+ po/cs.po |  467 +++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 248 insertions(+), 219 deletions(-)
+
+commit 6b0f2e12326f50aaf932442cd8017aa17e8980af
+Author: Tommi Vainikainen <thv@iki.fi>
+Date:   Sat Aug 15 15:46:56 2009 +0300
+
+    Updated Finnish translation
+
+ po/fi.po |   33 +++++++++++++++++++--------------
+ 1 files changed, 19 insertions(+), 14 deletions(-)
+
+commit feadfacced466026d7565a2b3e5ad67ce5865a9a
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:   Fri Aug 14 19:17:21 2009 +0530
+
+    hindi update
+
+ po/hi.po |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+commit 412a3d4bf522e891e8649c2ab1d185af9f42aaf8
+Author: Rajesh Ranjan <rranjan@rranjan.csb>
+Date:   Fri Aug 14 19:12:11 2009 +0530
+
+    hindi update
+
+ po/hi.po |  298 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 138 insertions(+), 160 deletions(-)
+
+commit b9ca2c4e5d94015c1882fd7b834da80c615d3b43
+Author: Matthias Clasen <mclasen@redhat.com>
+Date:   Thu Aug 13 11:48:11 2009 +0200
+
+    cpufreq: port to PolicyKit 1.0
+    
+    Fixes bgo#585307.
+
+ configure.in                                       |   21 +--
+ cpufreq/src/Makefile.am                            |    8 -
+ cpufreq/src/cpufreq-selector.c                     |  118 ++-----------
+ cpufreq/src/cpufreq-selector/Makefile.am           |    2 +-
+ .../cpufreq-selector/cpufreq-selector-service.c    |  187 ++++++++------------
+ .../cpufreq-selector/cpufreq-selector-service.h    |    2 +
+ .../cpufreq-selector/cpufreq-selector-service.xml  |    7 +-
+ .../org.gnome.cpufreqselector.policy.in            |    2 +-
+ cpufreq/src/cpufreq-utils.c                        |  122 +++----------
+ 9 files changed, 129 insertions(+), 340 deletions(-)
+
+commit 574b6bc734964b56529bcf9324588e79d1cbcc75
+Author: Manoj Kumar Giri <mgiri@mgiri.csb>
+Date:   Wed Aug 12 16:30:07 2009 +0530
+
+    Updated Oriya Translation
+
+ po/or.po |  437 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 217 insertions(+), 220 deletions(-)
+
+commit c7cc33a931be25a365073ad1c602ee4c64fab1a6
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Aug 12 20:46:30 2009 +1200
+
+    invest-applet: Remove the bad 3 year chart in favour of 5 years
+    
+    Bug 582766. As pointed out by Enrico Minack, the 5 year option
+    is available, but not the 3 year option. So just replace it.
+
+ invest-applet/data/financialchart.ui |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+commit cb93221752fa919c9c6d25dabb3d8ca05a5b1e91
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Aug 12 20:37:03 2009 +1200
+
+    minicommander: FIx to mc-install-default-macros
+    
+    Gets around some gconf weirdness and makes make dist-check succeed
+    (whether this is for the right reasons remains to be seen).
+
+ mini-commander/src/mc-install-default-macros.c |    3 +++
+ 1 files changed, 3 insertions(+), 0 deletions(-)
+
+commit 0146c6d3bf9f38ce501c4da792bdaae28e68eca9
+Author: Luca Ferretti <elle.uca@libero.it>
+Date:   Tue Aug 11 01:55:26 2009 +0200
+
+    Updated Italian translation
+
+ po/it.po |  510 +++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 274 insertions(+), 236 deletions(-)
+
+commit 122fbab1dfab084578c56a2f6c8fde3940cd8d9a
+Author: Antón Méixome <meixome@mancomun.org>
+Date:   Mon Aug 10 17:12:12 2009 +0200
+
+    Updated Galician translation
+
+ po/gl.po |  781 +++++++++++++++++++++++++++-----------------------------------
+ 1 files changed, 340 insertions(+), 441 deletions(-)
+
+commit 1215439dd958bf3f1ff1325e2b0359b87d0b5e0e
+Author: Seán de Búrca <leftmostcat@gmail.com>
+Date:   Sun Aug 9 15:46:48 2009 -0600
+
+    Updated Irish translation
+
+ po/ga.po | 1338 ++++++++++++++++++++++++++++++++++++++++++--------------------
+ 1 files changed, 903 insertions(+), 435 deletions(-)
+
+commit 66f766613e58be93b6dcb3ce3142d3cb3ce76386
+Author: Seán de Búrca <leftmostcat@gmail.com>
+Date:   Thu Aug 6 19:35:54 2009 -0600
+
+    Remove useless Plural-Forms line which breaks build with gnome-doc-utils master
+
+ gweather/docs/el/el.po  |    1 -
+ multiload/docs/el/el.po |    1 -
+ 2 files changed, 0 insertions(+), 2 deletions(-)
+
+commit ac47d2bd54726732ad4553c30172cd897163d490
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Thu Aug 6 18:50:30 2009 +0200
+
+    Added screenshot to German translation
+
+ cpufreq/help/de/de.po                              |    2 +-
+ .../help/de/figures/cpufreq-applet-preferences.png |  Bin 0 -> 21500 bytes
+ 2 files changed, 1 insertions(+), 1 deletions(-)
+
+commit 0182ce305e9a0268543ed2ba4d00e50528bd68b8
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Tue Aug 4 21:55:47 2009 +0200
+
+    Updated German translation
+
+ charpick/help/de/de.po |  456 +++++++++++++++++++++++++++++++++++++-----------
+ 1 files changed, 353 insertions(+), 103 deletions(-)
+
+commit 30354c5143212a70197668e74bc9a345eff86b8a
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Tue Aug 4 21:44:46 2009 +0200
+
+    Removed unneeded image
+
+ mini-commander/help/de/figures/command-line.png |  Bin 1068 -> 0 bytes
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 341babc0895e10524dee69e4ae3be225a2996a07
+Author: Mario Blättermann <mariobl@gnome.org>
+Date:   Tue Aug 4 21:43:11 2009 +0200
+
+    Updated German translation
+
+ mini-commander/help/de/de.po                    |  195 +++++++++++------------
+ mini-commander/help/de/figures/prefs-macros.png |  Bin 0 -> 36556 bytes
+ mini-commander/help/de/figures/prefs.png        |  Bin 0 -> 29850 bytes
+ 3 files changed, 96 insertions(+), 99 deletions(-)
+
+commit 03b89322781176843234bd4984565f8f40c8122c
+Author: Kjartan Maraas <kmaraas@gnome.org>
+Date:   Mon Aug 3 20:27:37 2009 +0200
+
+    Updated Norwegian bokmål translation.
+
+ po/nb.po |   85 +++++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 46 insertions(+), 39 deletions(-)
+
+commit 4680e804a4ac2b7edab0c85728e72f8f9e1e7195
+Author: Denis Arnaud <darnaud@src.gnome.org>
+Date:   Fri Jul 31 11:44:47 2009 +0200
+
+    Added br in LINGUAS file
+
+ po/LINGUAS |    1 +
+ 1 files changed, 1 insertions(+), 0 deletions(-)
+
+commit 980f0f886636d1e27cc1be6884004c0bb95a2953
+Author: Denis Arnaud <darnaud@src.gnome.org>
+Date:   Fri Jul 31 11:43:45 2009 +0200
+
+    Updated breton translation
+
+ po/br.po | 3470 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 files changed, 3470 insertions(+), 0 deletions(-)
+
+commit ee8dc6bc1177d6b10a750bc18087284843c5f93e
+Author: Daniel Nylander <po@danielnylander.se>
+Date:   Thu Jul 30 08:38:23 2009 +0200
+
+    Updated Swedish translation
+
+ po/sv.po |   22 +++++++++++++---------
+ 1 files changed, 13 insertions(+), 9 deletions(-)
+
+commit e5c278475c6baace8622cad3cb00c37a8d14deed
+Author: Ivar Smolin <okul@linux.ee>
+Date:   Thu Jul 30 08:49:17 2009 +0300
+
+    Updating Estonian translation
+
+ po/et.po |   22 ++++++++++++++--------
+ 1 files changed, 14 insertions(+), 8 deletions(-)
+
+commit 5cb77cdb1802bece4da47c980178d89a8a11fe77
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Jul 29 19:03:42 2009 +1200
+
+    General: 2.27.4 release notes and version bump
+
+ NEWS         |   23 +++++++++++++++++++++++
+ configure.in |    2 +-
+ 2 files changed, 24 insertions(+), 1 deletions(-)
+
+commit a26d7452bc79f473ac5d72e980d8eb5902e99b2b
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Jul 29 18:56:41 2009 +1200
+
+    invest-applet: Build cleanly after a make distclean
+    
+    Don't remove the transitional GtikApplet .server file. Debian patch,
+    see gnome:589428.
+
+ invest-applet/data/Makefile.am |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 2fef58bad96c519a5710a4dd65db3a63a9331ef2
+Author: drtvasudevan <agnihot3@gmail.com>
+Date:   Wed Jul 29 08:18:27 2009 +0530
+
+    Updated Tamil translation
+
+ po/ta.po |   82 +++++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 44 insertions(+), 38 deletions(-)
+
+commit e2c60617f1ac4c040095d15da24402a1c7c0e192
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Tue Jul 28 01:33:46 2009 +0200
+
+    Added Czech help translation for multiload by Marek Cernocky
+    
+    Reviewed by: Lucas Lommer and Petr Kovar.
+
+ multiload/docs/Makefile.am                         |    2 +-
+ multiload/docs/cs/cs.po                            |  748 ++++++++++++++++++++
+ .../docs/cs/figures/multiload-preferences.png      |  Bin 0 -> 40874 bytes
+ 3 files changed, 749 insertions(+), 1 deletions(-)
+
+commit ce76730c04caae9e69469651960112b12467dbee
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Tue Jul 28 01:25:08 2009 +0200
+
+    Added Czech help translation for battstat by Marek Cernocky
+
+ battstat/docs/Makefile.am                          |    2 +-
+ battstat/docs/cs/cs.po                             |  514 ++++++++++++++++++++
+ .../docs/cs/figures/battstat-applet-expanded.png   |  Bin 0 -> 7687 bytes
+ battstat/docs/cs/figures/battstat-applet.png       |  Bin 0 -> 8089 bytes
+ battstat/docs/cs/figures/battstat-credits-hal.png  |  Bin 0 -> 44645 bytes
+ battstat/docs/cs/figures/battstat-preferences.png  |  Bin 0 -> 41874 bytes
+ battstat/docs/cs/figures/context-menu.png          |  Bin 0 -> 12487 bytes
+ 7 files changed, 515 insertions(+), 1 deletions(-)
+
+commit c81842b3a168bfe945af53c575e8586ca1a2172e
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Tue Jul 28 01:14:07 2009 +0200
+
+    Updated Czech help translation for various applets by Marek Cernocky
+
+ accessx-status/docs/cs/cs.po |  348 +++++++++++++++++++++++++----------
+ charpick/help/cs/cs.po       |   40 +++--
+ drivemount/help/cs/cs.po     |   23 ++-
+ geyes/docs/cs/cs.po          |  105 ++++++-----
+ gswitchit/help/cs/cs.po      |  423 ++++++++++++++++++++++++++++++++----------
+ mixer/docs/cs/cs.po          |  163 +++++++++--------
+ trashapplet/docs/cs/cs.po    |  104 ++++++-----
+ 7 files changed, 818 insertions(+), 388 deletions(-)
+
+commit 297e4139a58654fbfcefd73fa1cbfc411ffe086e
+Author: Yaron Shahrabani <sh.yaron@gmail.com>
+Date:   Mon Jul 27 13:39:19 2009 +0300
+
+    Updated Hebrew translation
+
+ po/he.po |  542 +++++++++++++++++++++++++++-----------------------------------
+ 1 files changed, 236 insertions(+), 306 deletions(-)
+
+commit 39ed34268f5f29212b8f9c1b9b98596c0843ef99
+Author: Jorge González <jorgegonz@svn.gnome.org>
+Date:   Fri Jul 24 19:41:35 2009 +0200
+
+    Updated Spanish translation
+
+ po/es.po |   21 ++++++++++++---------
+ 1 files changed, 12 insertions(+), 9 deletions(-)
+
+commit e3f343127a8626d42b7fb16f9eb1ca7749ecb52a
+Merge: e286e49... fb6862e...
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 24 21:19:12 2009 +1200
+
+    Merge branch 'invest-labels-586364'
+
+commit fb6862e5540f59491a64917e61cc870d4652286c
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 24 21:17:05 2009 +1200
+
+    invest-applet: Allow labels instead of stock symbols
+    
+    A contribution from Enrico Minack to allow user-supplied labels
+    to be used instead of the stock symbol.
+
+ invest-applet/invest/__init__.py    |   28 ++++++++++++++++++++++++++++
+ invest-applet/invest/preferences.py |   32 ++++++++++++++++++--------------
+ invest-applet/invest/quotes.py      |   27 +++++++++++++++++----------
+ invest-applet/invest/test.py        |    2 +-
+ invest-applet/invest/widgets.py     |   22 +++++++++++++++-------
+ 5 files changed, 79 insertions(+), 32 deletions(-)
+
+commit e286e49b5a9f1ed6fe8d3de8fd7b2e51c1ff527a
+Author: Daniel Nylander <po@danielnylander.se>
+Date:   Wed Jul 22 13:56:02 2009 +0200
+
+    Updated Swedish translation
+
+ po/sv.po |   39 +++++++++++++++++++++------------------
+ 1 files changed, 21 insertions(+), 18 deletions(-)
+
+commit f318b474129c34ff262f5c75d7f32bf03417e3d0
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Jul 22 20:53:15 2009 +1200
+
+    stickynotes: Make sure we only save when asked to.
+    
+    Make sure the function stickynotes_save_now returns FALSE rather than
+    whatever its void return value returned. Should fix bug 589213,
+    I think the report of every 1 seconds in that case might be mistaken.
+
+ stickynotes/stickynotes.c |    4 +++-
+ stickynotes/stickynotes.h |    4 ++--
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit b439c6cd1a469b4de979a7da59324fa33e264e65
+Author: Yaron Sharabani <sh.yaron@gmail.com>
+Date:   Mon Jul 20 23:06:51 2009 +0300
+
+    Updated Hebrew translation
+
+ po/he.po |  760 +++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 408 insertions(+), 352 deletions(-)
+
+commit ad6ce9aa1d3b184aad5e00a7e5227459cf74704b
+Author: Claude Paroz <claude@2xlibre.net>
+Date:   Sun Jul 19 22:28:29 2009 +0200
+
+    Removed obsolete script
+
+ po/update.sh |   45 ---------------------------------------------
+ 1 files changed, 0 insertions(+), 45 deletions(-)
+
+commit 2b6230ed36529cba62b75e52b8282d8517205970
+Author: Ilkka Tuohela <hile@iki.fi>
+Date:   Sun Jul 19 11:11:23 2009 +0300
+
+    Updated Finnish translation
+
+ po/fi.po |  607 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 315 insertions(+), 292 deletions(-)
+
+commit 6df48d5c1b0d47b7f1fd387f05c98a0183e19da1
+Author: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>
+Date:   Sat Jul 18 21:17:12 2009 +0800
+
+    Updated Traditional Chinese translation(Hong Kong and Taiwan)
+
+ po/zh_HK.po |  598 +++++++++++++++++++++++++++++++----------------------------
+ po/zh_TW.po |  598 +++++++++++++++++++++++++++++++----------------------------
+ 2 files changed, 628 insertions(+), 568 deletions(-)
+
+commit d22641075368cd33ae8233c32c0de89a14842efb
+Author: Jorge González <jorgegonz@svn.gnome.org>
+Date:   Sat Jul 18 14:04:58 2009 +0200
+
+    Updated Spanish translation
+
+ po/es.po |  114 +++++++++++++++++++++++++++----------------------------------
+ 1 files changed, 51 insertions(+), 63 deletions(-)
+
+commit 61e76a842876f8c2cd9e8933ae3b10baddfcc3fd
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sat Jul 18 20:51:24 2009 +1200
+
+    invest-applet: Update the "uninstalled" check
+    
+    Previously the check used ChangeLog and we switched to Makefile.am.
+    This update fixes a missed case.
+
+ invest-applet/invest/__init__.py |   12 ++++++------
+ 1 files changed, 6 insertions(+), 6 deletions(-)
+
+commit 369caed944a16da36605080fa4241787ccdbc47a
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Thu Jul 16 22:55:22 2009 +1200
+
+    trashapplet: Remove markup from a translatable string.
+    
+    Patch from Claude Paroz. See bug 588683. Also, rework the other
+    message in the trash emptying dialog to remove an old FIXME.
+
+ trashapplet/src/trash-empty.c |   28 +++++++++++++---------------
+ 1 files changed, 13 insertions(+), 15 deletions(-)
+
+commit 94b465a4c85f1d98b54a395f4e9b06da38a30d44
+Author: Jonathan Ernst <jonathan@ernstfamily.ch>
+Date:   Wed Jul 15 18:20:03 2009 +0200
+
+    Updated French translation
+
+ po/fr.po |  523 +++++++++++++++++++++++++++++---------------------------------
+ 1 files changed, 246 insertions(+), 277 deletions(-)
+
+commit 65d7d63a5436d5a989d61da27771a1fe7a18054c
+Author: Ivar Smolin <okul@linux.ee>
+Date:   Sun Jul 12 22:26:25 2009 +0300
+
+    Updating Estonian translation
+
+ po/et.po |   10 ++++------
+ 1 files changed, 4 insertions(+), 6 deletions(-)
+
+commit 115801365e0f3f33a09bb6452d0ad60fc450983b
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 10 20:58:14 2009 +1200
+
+    invest: auto-convert stock symbols to upper case
+    
+    Patch from Enrico Minack. Fixes bug 450176.
+
+ invest-applet/invest/preferences.py |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+
+commit 6c77ab3d9c189bae30f5b7cee25a63fddbe41018
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 10 20:50:51 2009 +1200
+
+    invest: Select the newly added stock for editing.
+    
+    Nice patch from Enrico Minack to make adding a new stock more intuitive.
+    See bug 473706.
+
+ invest-applet/invest/preferences.py |    4 +++-
+ 1 files changed, 3 insertions(+), 1 deletions(-)
+
+commit 3541818f77407b62ce128ecf9dafac344540bd76
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 10 20:42:50 2009 +1200
+
+    invest: Make the selection of stocks nicer (hover)
+    
+    Patch from Enrico Minack. Bug 508419. I also updated the file that
+    is checked to detect an uninstalled version since ChangeLog has been
+    removed. We now use Makefile.am.
+
+ invest-applet/invest/invest-applet.py |   22 +++++++++---------
+ invest-applet/invest/widgets.py       |   37 +++++++++++++++++----------------
+ 2 files changed, 30 insertions(+), 29 deletions(-)
+
+commit 8b0a283e1bb7aee43a7b97cf0d6cae1810b29b9a
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri Jul 10 19:56:41 2009 +1200
+
+    invest: remove a superfluous argument
+    
+    Patch from Enrico Minack. Fixes bug 555789.
+
+ invest-applet/invest/preferences.py |   40 +++++++++++++++++-----------------
+ 1 files changed, 20 insertions(+), 20 deletions(-)
+
+commit 5b26d3b1392d84a2277934f941e3bbdb086afe4b
+Author: Maxim V. Dziumanenko <dziumanenko@gmail.com>
+Date:   Fri Jul 10 00:09:59 2009 +0300
+
+    Updated Ukrainian translation
+
+ po/uk.po | 1114 +++++++++++++++++++++++++++++++++-----------------------------
+ 1 files changed, 587 insertions(+), 527 deletions(-)
+
+commit 547db14a6fa8f6b8825fd4abf3b251215626aa63
+Author: Daniel Nylander <po@danielnylander.se>
+Date:   Tue Jul 7 17:02:55 2009 +0200
+
+    Updated Swedish translation
+
+ po/sv.po |  566 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 290 insertions(+), 276 deletions(-)
+
+commit a6b4d8e2e23418b5389ce2d46b4cfc278a967119
+Author: Sergey V. Udaltsov <svu@gnome.org>
+Date:   Wed Jul 1 15:59:51 2009 +0100
+
+    Bumped libxklavier version to 4.0
+    
+    Libxklavier changed API/ABI, all gnome modules are changed to use new
+    version
+
+ configure.in |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+commit d98c933d870092d2318250d77f4d80003a7fccf9
+Author: Timo Jyrinki <timo.jyrinki@iki.fi>
+Date:   Mon Jun 29 12:51:12 2009 +0300
+
+    Remove figures identical to original (but only those) from fi help
+
+ charpick/help/fi/figures/charpalette_applet.png    |  Bin 1797 -> 0 bytes
+ charpick/help/fi/figures/charpick_characters.png   |  Bin 36598 -> 0 bytes
+ .../fi/figures/cpufreq-applet-selector-both.png    |  Bin 7739 -> 0 bytes
+ .../help/fi/figures/cpufreq-applet-selector.png    |  Bin 8836 -> 0 bytes
+ .../help/fi/figures/drivemount-applet_example.png  |  Bin 1238 -> 0 bytes
+ geyes/docs/fi/figures/geyes_applet.png             |  Bin 1690 -> 0 bytes
+ gweather/docs/fi/figures/gweather_applet.png       |  Bin 1225 -> 0 bytes
+ mixer/docs/fi/figures/volumecontrol_applet.png     |  Bin 987 -> 0 bytes
+ .../fi/figures/system-monitor-applet_window.png    |  Bin 447 -> 0 bytes
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a40db0c098ccf1a8f66c5c6a1b8ce58d48de5ded
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Sun Jun 28 23:40:05 2009 +0200
+
+    Fixed Czech help translation for stickynotes by Marek Cernocky
+    
+    Reviewed by: Petr Kovar.
+
+ stickynotes/docs/cs/cs.po |  532 +++++++++++++++++++++++++++++++++++----------
+ 1 files changed, 418 insertions(+), 114 deletions(-)
+
+commit 70a123d125979ba85072fe31259749a92e1b654d
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Sun Jun 28 23:14:11 2009 +0200
+
+    Added & fixed Czech help translation for various applets by Marek Cernocky
+    
+    Added Czech help translation for cpufreq and stickynotes. Fixed Czech help
+    translation for gweather.
+    
+    Reviewed by: Lucas Lommer and Petr Kovar.
+
+ cpufreq/help/Makefile.am                           |    2 +-
+ cpufreq/help/cs/cs.po                              |  602 ++++++++++++++++++
+ .../cs/figures/cpufreq-applet-preferences-smp.png  |  Bin 0 -> 9761 bytes
+ .../help/cs/figures/cpufreq-applet-preferences.png |  Bin 0 -> 22936 bytes
+ gweather/docs/cs/cs.po                             |  641 +++++++++++++++-----
+ stickynotes/docs/Makefile.am                       |    2 +-
+ stickynotes/docs/cs/cs.po                          |  522 ++++++++++++++++
+ .../docs/cs/figures/stickynote-right-menu-lock.png |  Bin 0 -> 18805 bytes
+ .../docs/cs/figures/stickynote-right-menu-new.png  |  Bin 0 -> 17762 bytes
+ .../docs/cs/figures/stickynotes-note-prefs.png     |  Bin 0 -> 28228 bytes
+ stickynotes/docs/cs/figures/stickynotes-prefs.png  |  Bin 0 -> 40453 bytes
+ stickynotes/docs/cs/figures/stickynotes_applet.png |  Bin 0 -> 26380 bytes
+ 12 files changed, 1599 insertions(+), 170 deletions(-)
+
+commit c1fe05d7568f925ee5390580c24aa586b9d150b9
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sat Jun 27 21:21:20 2009 +1200
+
+    general: Fix the test for NetworkManager
+    
+    Use quoting and 'test' for the inner check.
+
+ configure.in |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+commit 658544741f42794c28c2919d974f0bb89bf15775
+Author: drtvasudevan <agnihot3@gmail.com>
+Date:   Thu Jun 25 16:32:40 2009 +0530
+
+    Updated Tamil translation
+
+ po/ta.po |  376 ++++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 194 insertions(+), 182 deletions(-)
+
+commit 664d9317256c30a116a4b1fd29a819b6cf9399e6
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Thu Jun 25 20:56:53 2009 +1200
+
+    General: Clean up GTK+ includes
+    
+    Remove #includes of specific gtk/gdk/glib header files in favour of the
+    generic <glib.h>, <gdk/gdk.h>, <gtk/gtk.h>. Most of this is a patch
+    from Luis Menina (see bug 560678) with mini-commander fixes by myself.
+    The gswitchit applet does pass yet because of libgnomekbd.
+
+ gweather/gweather-dialog.h                 |    2 +-
+ gweather/gweather-pref.h                   |    2 +-
+ mini-commander/src/about.c                 |    2 +-
+ mini-commander/src/cmd_completion.h        |    2 +-
+ mini-commander/src/command_line.c          |  130 +++++++++++++---------------
+ mini-commander/src/command_line.h          |    4 +-
+ mini-commander/src/exec.c                  |    8 +-
+ mini-commander/src/exec.h                  |    2 +-
+ mini-commander/src/macro.h                 |    2 +-
+ mini-commander/src/mc-default-macros.h     |    4 +-
+ mini-commander/src/mini-commander_applet.c |   53 +++++-------
+ mini-commander/src/mini-commander_applet.h |    4 +-
+ mini-commander/src/preferences.h           |    2 +-
+ multiload/global.h                         |    2 +-
+ multiload/netspeed.h                       |    2 +-
+ 15 files changed, 102 insertions(+), 119 deletions(-)
+
+commit a4615ac3f74d31442a7bda28435befe7d179af66
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Thu Jun 25 20:56:53 2009 +1200
+
+    General: Clean up GTK+ includes
+    
+    Remove #includes of specific gtk/gdk/glib header files in favour of the
+    generic <glib.h>, <gdk/gdk.h>, <gtk/gtk.h>. Most of this is a patch
+    from Luis Menina (see bug 560678) with mini-commander fixes by myself.
+    The gswitchit applet does pass yet because of libgnomekbd.
+
+ gswitchit/gswitchit-applet.c |    2 +-
+ gswitchit/gswitchit-applet.h |    5 ++---
+ 2 files changed, 3 insertions(+), 4 deletions(-)
+
+commit 70ac17ff0d3414be0a1f2ae1bba2f8972f77153e
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Mon Jun 22 00:48:18 2009 +0200
+
+    Added Czech help translation for gweather by Marek Cernocky
+    
+    Reviewed by Petr Kovar.
+
+ gweather/docs/Makefile.am                          |    2 +-
+ gweather/docs/cs/cs.po                             |  744 ++++++++++++++++++++
+ gweather/docs/cs/figures/gweather-details.png      |  Bin 0 -> 45235 bytes
+ gweather/docs/cs/figures/gweather-menu-prefs.png   |  Bin 0 -> 14772 bytes
+ .../docs/cs/figures/gweather-prefs-general.png     |  Bin 0 -> 44087 bytes
+ .../docs/cs/figures/gweather-prefs-locations.png   |  Bin 0 -> 35091 bytes
+ 6 files changed, 745 insertions(+), 1 deletions(-)
+
+commit adfe30575d677038f37718c67f0bf8741f1ff124
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Jun 17 23:53:18 2009 +1200
+
+    2.27.3 release
+    
+    In addition fixes where made to the zh_CN translations for various
+    modules to pass XML validation.
+
+ NEWS                                          |  112 +++++++++++++++----------
+ configure.in                                  |    2 +-
+ mixer/docs/zh_CN/zh_CN.po                     |    2 +-
+ po/POTFILES.skip                              |   13 +---
+ stickynotes/docs/zh_CN/stickynotes_applet.xml |    6 +-
+ stickynotes/docs/zh_CN/zh_CN.po               |    7 +-
+ 6 files changed, 78 insertions(+), 64 deletions(-)
+
+commit 48aa903f8edeccf6dab32d96cfc478c1145f2a9f
+Author: Aron Xu <aronxu@gnome.org>
+Date:   Tue Jun 16 12:24:41 2009 +0800
+
+    Added zh_CN to DOC_LINGUAS, remove superfluous figures.
+
+ charpick/help/Makefile.am                          |    2 +-
+ charpick/help/zh_CN/figures/charpalette_applet.png |  Bin 1797 -> 0 bytes
+ .../help/zh_CN/figures/charpalette_chargroup.png   |  Bin 1087 -> 0 bytes
+ charpick/help/zh_CN/figures/charpick_applet.png    |  Bin 229 -> 0 bytes
+ .../help/zh_CN/figures/charpick_characters.png     |  Bin 36598 -> 0 bytes
+ charpick/help/zh_CN/figures/charpick_chargroup.png |  Bin 238 -> 0 bytes
+ .../help/zh_CN/figures/cpufreq-applet-selector.png |  Bin 8836 -> 0 bytes
+ geyes/docs/Makefile.am                             |    2 +-
+ mini-commander/help/Makefile.am                    |    2 +-
+ mixer/docs/zh_CN/figures/mixer_applet.png          |  Bin 1078 -> 0 bytes
+ mixer/docs/zh_CN/figures/volumecontrol_applet.png  |  Bin 987 -> 0 bytes
+ multiload/docs/Makefile.am                         |    2 +-
+ 12 files changed, 4 insertions(+), 4 deletions(-)
+
+commit b67da0ec8ae4df68c357fe0c423f44ae02ec1d3c
+Author: Runa Bhattacharjee <runab@redhat.com>
+Date:   Mon Jun 15 14:56:19 2009 +0530
+
+    Updated Bengali India Translations
+
+ po/bn_IN.po |  546 +++++++++++++++++++++++++----------------------------------
+ 1 files changed, 232 insertions(+), 314 deletions(-)
+
+commit 87dedb73be688485358c8a2230bb6f08db45b3f3
+Author: Mark Krapivner <mark125@gmail.com>
+Date:   Fri Jun 12 21:05:38 2009 +0300
+
+    Updated Hebrew translation
+
+ po/he.po | 1015 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 484 insertions(+), 531 deletions(-)
+
+commit 4d55c414f803d57b5b5058e42535feb54a3addcf
+Author: Manoj Kumar Giri <mgiri@mgiri.csb>
+Date:   Wed Jun 10 18:50:18 2009 +0530
+
+    Updated Hindi Translation
+
+ po/hi.po | 2793 +++++++++++++++++++++-----------------------------------------
+ 1 files changed, 948 insertions(+), 1845 deletions(-)
+
+commit d3fd1eefb8b3838f75a9e73b75ff088602242ae5
+Author: Kjartan Maraas <kmaraas@gnome.org>
+Date:   Wed Jun 10 10:33:32 2009 +0200
+
+    Updated Norwegian bokmål translation.
+
+ po/nb.po |  614 ++++++++++++++++++++++++++++++--------------------------------
+ 1 files changed, 295 insertions(+), 319 deletions(-)
+
+commit ee9d029440d8483bb9cd2f87a60ea8ff1b412dd5
+Author: Ivar Smolin <okul@linux.ee>
+Date:   Tue Jun 9 22:50:22 2009 +0300
+
+    Updating Estonian translation
+
+ po/et.po |  142 +++++++++++++++++++++++++------------------------------------
+ 1 files changed, 58 insertions(+), 84 deletions(-)
+
+commit 39f781aef53ab2b4a5e279b8e86de70a9dc5ea7f
+Author: ifelix <ifelix@redhat.com>
+Date:   Tue Jun 9 17:29:11 2009 +0530
+
+    Tamil translation updated
+
+ po/ta.po |  222 +++++++++++++++++++++++++++++++------------------------------
+ 1 files changed, 113 insertions(+), 109 deletions(-)
+
+commit a088122b6d0226eccfdc2db177a31b4365b97ab8
+Author: Petr Kovar <pknbe@volny.cz>
+Date:   Sun Jun 7 21:58:14 2009 +0200
+
+    Added Czech translation of char-palette & drivemount help
+    
+    Added Czech translation of char-palette & drivemount help by Lucas Lommer.
+    Reviewed by Petr Kovar.
+
+ charpick/help/Makefile.am   |    2 +-
+ charpick/help/cs/cs.po      |  668 +++++++++++++++++++++++++++++++++++++++++++
+ drivemount/help/Makefile.am |    2 +-
+ drivemount/help/cs/cs.po    |  483 +++++++++++++++++++++++++++++++
+ 4 files changed, 1153 insertions(+), 2 deletions(-)
+
+commit 27e658cc1af78b1c1613b991d9b60a9cfcdb537b
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Wed Jun 3 18:52:18 2009 +1200
+
+    stickynotes: Don't close the prefs dialogs when a check-mark is toggled
+    
+    Patch contributed by Sergey Rudchenko (gnome bug #567477 and launchpad
+    bug 292536). The patch makes sure that the dialog only closes on
+    a response of GTK_RESPONSE_CLOSE (the delete signal is handled elsewhere
+    so we can ignore GTK_RESPONSE_DELETE_EVENT).
+
+ stickynotes/stickynotes.c                  |   78 ++++++++++++++--------------
+ stickynotes/stickynotes_applet_callbacks.c |   32 ++++++------
+ 2 files changed, 55 insertions(+), 55 deletions(-)
+
+commit 765741b65d0c69fc3de6d113aae88b32b22e6128
+Author: Jorge Gonzalez <jorgegonz@svn.gnome.org>
+Date:   Wed Jun 3 06:41:24 2009 +0200
+
+    Updated Spanish translation
+
+ charpick/help/es/es.po |   57 ++++++++++++++++++++++++++++++-----------------
+ 1 files changed, 36 insertions(+), 21 deletions(-)
+
+commit 203a48c11bbf209fa8465181bd6dbc182d04ca6f
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun May 31 13:40:56 2009 +1200
+
+    general: Add Pulse support to the documentation
+    
+    Patch from Paul Cutler. See bug 577197. It adds a
+    <releaseinfo ... /> tag to each document.
+
+ accessx-status/docs/C/accessx-status.xml      |    2 ++
+ accessx-status/docs/eu/accessx-status.xml     |    2 ++
+ battstat/docs/C/battstat.xml                  |    2 ++
+ battstat/docs/de/battstat.xml                 |    2 ++
+ battstat/docs/eu/battstat.xml                 |    2 ++
+ charpick/help/C/char-palette.xml              |    2 ++
+ charpick/help/de/char-palette.xml             |    2 ++
+ charpick/help/eu/char-palette.xml             |    2 ++
+ cpufreq/help/C/cpufreq-applet.xml             |    2 ++
+ drivemount/help/C/drivemount.xml              |    2 ++
+ drivemount/help/de/drivemount.xml             |    2 ++
+ drivemount/help/eu/drivemount.xml             |    2 ++
+ geyes/docs/C/geyes.xml                        |    2 ++
+ geyes/docs/eu/geyes.xml                       |    2 ++
+ gswitchit/help/C/gswitchit.xml                |    2 ++
+ gweather/docs/C/gweather.xml                  |    2 ++
+ gweather/docs/de/gweather.xml                 |    2 ++
+ gweather/docs/eu/gweather.xml                 |    2 ++
+ gweather/docs/ko/gweather.xml                 |    2 ++
+ invest-applet/docs/C/invest-applet.xml        |    2 ++
+ mixer/docs/C/mixer_applet2.xml                |    2 ++
+ mixer/docs/de/mixer_applet2.xml               |    2 ++
+ mixer/docs/eu/mixer_applet2.xml               |    2 ++
+ multiload/docs/C/multiload.xml                |    2 ++
+ multiload/docs/de/multiload.xml               |    2 ++
+ multiload/docs/eu/multiload.xml               |    2 ++
+ stickynotes/docs/C/stickynotes_applet.xml     |    2 ++
+ stickynotes/docs/de/stickynotes_applet.xml    |    2 ++
+ stickynotes/docs/eu/stickynotes_applet.xml    |    2 ++
+ stickynotes/docs/zh_CN/stickynotes_applet.xml |    8 +++++---
+ trashapplet/docs/C/trashapplet.xml            |    3 +++
+ 31 files changed, 66 insertions(+), 3 deletions(-)
+
+commit eb8ef5faaac3142e51772164666088dbda830aeb
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun May 31 13:09:35 2009 +1200
+
+    general: Replace [ and ] in configure.in with quadrigraphs
+    
+    m4 uses [ and ] as quoting characters. Up until now when our
+    configure.in script wanted to use [ and ] in its output they
+    were over-quoted. Now we use quadrigraphs (@<:@ and @:>@) to
+    avoid problems later if the quote level gets changed.
+
+ configure.in |   24 ++++++++++++------------
+ 1 files changed, 12 insertions(+), 12 deletions(-)
+
+commit 7bd3d0e0e2b7e2310510bbf95f1a42179c43fc15
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun May 31 12:59:38 2009 +1200
+
+    General: Make NetworkManager support manually selectable
+    
+    Patch from Romain Perier to allow explicit disabling of
+    NetworkManager support. See bug 578951.
+
+ configure.in |   23 +++++++++++++++--------
+ 1 files changed, 15 insertions(+), 8 deletions(-)
+
+commit 5c59c5a56d735e9ed5c9bf5d1f957c80d1bd15e9
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun May 31 12:11:24 2009 +1200
+
+    charpick: Automatically updated translated doc files
+    
+    These probably shouldn't be in git since they are generated. Pushing
+    them into git anyway until I have time to check this out.
+
+ charpick/help/de/char-palette.xml |    4 ++--
+ charpick/help/eu/char-palette.xml |    4 ++--
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+
+commit 34f7059f786b3c64fcdaa8828f6e6b96f656b09b
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sun May 31 12:03:07 2009 +1200
+
+    charpick: Update the documentation for adding palettes
+    
+    Patch from Lucas Lommer to fix the documentation about
+    adding palettes to the applet. See bug 584238.
+
+ charpick/help/C/char-palette.xml |    4 ++--
+ 1 files changed, 2 insertions(+), 2 deletions(-)
+
+commit f8bd8fcf39b0286556ce321763a6ea3f79b1cc8e
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Sat May 30 18:56:02 2009 +1200
+
+    Fix network state detection in gweather
+    
+    Patch from Matthias Clasen to fix detection of network status changes
+    in gweather. See bug #579098 for details. I believe this also fixes
+    bugs 379422, and 565751.
+
+ gweather/gweather-applet.c |    7 ++++++-
+ 1 files changed, 6 insertions(+), 1 deletions(-)
+
+commit fb2454e1aae19b5afb45c649d90e377fb0900adb
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Fri May 29 10:46:13 2009 +1200
+
+    Autogenerate the ChangeLogs
+    
+    We no longer keep explicit ChangeLogs. Instead they get generated at
+    make dist time from the git logs. Automake recipe stolen from gnome-
+    games. Commit message guidelines stolen from GTK+.
+
+ ChangeLog                         | 6702 ------------------------
+ ChangeLog.README                  |   47 +
+ ChangeLog.old                     | 6702 ++++++++++++++++++++++++
+ HACKING                           |  144 +-
+ Makefile.am                       |   16 +-
+ accessx-status/ChangeLog          |  394 --
+ accessx-status/ChangeLog.old      |  394 ++
+ accessx-status/docs/ChangeLog     |  199 -
+ accessx-status/docs/ChangeLog.old |  199 +
+ battstat/ChangeLog                | 1720 -------
+ battstat/ChangeLog.old            | 1720 +++++++
+ charpick/ChangeLog                | 1078 ----
+ charpick/ChangeLog.old            | 1078 ++++
+ cpufreq/ChangeLog                 |  839 ---
+ cpufreq/ChangeLog.old             |  839 +++
+ cpufreq/help/ChangeLog            |  139 -
+ cpufreq/help/ChangeLog.old        |  139 +
+ drivemount/ChangeLog              |  973 ----
+ drivemount/ChangeLog.old          |  973 ++++
+ drivemount/help/ChangeLog         |  153 -
+ drivemount/help/ChangeLog.old     |  153 +
+ geyes/ChangeLog                   |  934 ----
+ geyes/ChangeLog.old               |  934 ++++
+ geyes/docs/ChangeLog              |  147 -
+ geyes/docs/ChangeLog.old          |  147 +
+ gkb-new/ChangeLog                 | 1464 ------
+ gkb-new/ChangeLog.old             | 1464 ++++++
+ gswitchit/ChangeLog               |  629 ---
+ gswitchit/ChangeLog.old           |  629 +++
+ gweather/ChangeLog                | 3385 ------------
+ gweather/ChangeLog.old            | 3385 ++++++++++++
+ invest-applet/ChangeLog           |  384 --
+ invest-applet/ChangeLog.old       |  384 ++
+ mini-commander/ChangeLog          | 1702 ------
+ mini-commander/ChangeLog.old      | 1702 ++++++
+ mixer/ChangeLog                   | 1486 ------
+ mixer/ChangeLog.old               | 1486 ++++++
+ modemlights/ChangeLog             |  930 ----
+ modemlights/ChangeLog.old         |  930 ++++
+ multiload/ChangeLog               | 1368 -----
+ multiload/ChangeLog.old           | 1368 +++++
+ null_applet/ChangeLog             |   81 -
+ null_applet/ChangeLog.old         |   81 +
+ po/ChangeLog                      |10218 -------------------------------------
+ po/ChangeLog.old                  |10218 +++++++++++++++++++++++++++++++++++++
+ stickynotes/ChangeLog             | 1431 ------
+ stickynotes/ChangeLog.old         | 1431 ++++++
+ trashapplet/ChangeLog             |  651 ---
+ trashapplet/ChangeLog.old         |  651 +++
+ trashapplet/docs/ChangeLog        |   58 -
+ trashapplet/docs/ChangeLog.old    |   58 +
+ 51 files changed, 37220 insertions(+), 37117 deletions(-)
+
+commit 464aa3b5861666d42ae094210436b003b369c4a3
+Author: Jorge Gonzalez <jorgegonz@svn.gnome.org>
+Date:   Tue May 26 19:28:55 2009 +0200
+
+    Updated Spanish translation
+
+ po/es.po |  371 ++++++++++++++++++++++++++++++++++----------------------------
+ 1 files changed, 202 insertions(+), 169 deletions(-)
+
+commit 75621994dcde381c5a410f170845bfaeaf743022
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Tue May 26 22:40:06 2009 +1200
+
+    Fix the links in the Chinese battstat docs in the right place.
+    
+    This is still 2.27.2. make distcheck is a wonderful thing.
+
+ battstat/docs/zh_CN/zh_CN.po |    9 ++++-----
+ 1 files changed, 4 insertions(+), 5 deletions(-)
+
+commit 7b368aa843f61fc71e04670e6577f3e6b82cd16c
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Tue May 26 21:40:19 2009 +1200
+
+    The 2.27.2 release
+
+ ChangeLog                     |    2 ++
+ NEWS                          |   34 ++++++++++++++++++++++++++++++++--
+ accessx-status/ChangeLog      |    2 ++
+ accessx-status/docs/ChangeLog |    2 ++
+ battstat/ChangeLog            |    2 ++
+ charpick/ChangeLog            |    2 ++
+ configure.in                  |    6 +++---
+ cpufreq/ChangeLog             |    2 ++
+ cpufreq/help/ChangeLog        |    2 ++
+ drivemount/ChangeLog          |    2 ++
+ drivemount/help/ChangeLog     |    2 ++
+ geyes/ChangeLog               |    2 ++
+ geyes/docs/ChangeLog          |    2 ++
+ gkb-new/ChangeLog             |    2 ++
+ gswitchit/ChangeLog           |    2 ++
+ gweather/ChangeLog            |    2 ++
+ invest-applet/ChangeLog       |    2 ++
+ mini-commander/ChangeLog      |    2 ++
+ mixer/ChangeLog               |    2 ++
+ modemlights/ChangeLog         |    2 ++
+ multiload/ChangeLog           |    2 ++
+ null_applet/ChangeLog         |    2 ++
+ po/ChangeLog                  |    2 ++
+ stickynotes/ChangeLog         |    2 ++
+ trashapplet/ChangeLog         |    2 ++
+ trashapplet/docs/ChangeLog    |    2 ++
+ 26 files changed, 83 insertions(+), 5 deletions(-)
+
+commit de79d68eba4fd705ca6322fe98c82fe329ffa3a9
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Tue May 26 11:30:35 2009 +1200
+
+    Add support for South African languages to charpick
+    
+    Added a patch from Dwayne Bailey to support Afrikaans, Nothern Sotho
+    Tswana and Venda. Bug 407409. The selection system really needs to
+    be better if we keep this up, but two more entries isn't going to kill
+    it yet.
+
+ charpick/charpick.c |   13 ++++++++++++-
+ 1 files changed, 12 insertions(+), 1 deletions(-)
+
+commit dcfb7a1eee2b62d7475c9652cce94757065f87cf
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Mon May 25 22:06:11 2009 +1200
+
+    Remove glade files.
+    
+    Now that GtkBuilder .ui files are directly supported by glade,
+    remove the .glade files that had been used to generate the .ui
+    files in favour of editing the .ui files directly.
+
+ battstat/battstat_applet.glade          |  596 -----------------
+ cpufreq/cpufreq-preferences.glade       |  427 ------------
+ gswitchit/gswitchit.glade               |   82 ---
+ invest-applet/data/financialchart.glade | 1030 -----------------------------
+ invest-applet/data/prefs-dialog.glade   |  167 -----
+ mini-commander/src/mini-commander.glade | 1012 -----------------------------
+ modemlights/modemlights.glade           |  314 ---------
+ stickynotes/stickynotes.glade           | 1067 -------------------------------
+ 8 files changed, 0 insertions(+), 4695 deletions(-)
+
+commit be3c163704ce07a03290fc96007c8322675fa72f
+Author: Callum McKenzie <callum@spooky-possum.org>
+Date:   Mon May 25 21:59:39 2009 +1200
+
+    Remove unnecessary markup from translatable strings.
+    
+    Now that attribute parsing is available for GtkBuilder files, I've
+    fially fixed bug 112962 and replaced strings of the form <b>foo</b>
+    with plain foo and set the text attributes appropriately. Obviously
+    this doesn't affect strings with embedded markup, only those with
+    global markup. This should make life easier for translators.
+
+ battstat/battstat_applet.ui               |  364 +++++------------
+ cpufreq/cpufreq-preferences.ui            |  280 ++++---------
+ invest-applet/data/prefs-dialog.ui        |   52 ++-
+ mini-commander/src/mini-commander.ui      |  649 +++++++++--------------------
+ modemlights/modemlights.ui                |  226 ++++-------
+ stickynotes/stickynotes.ui                |  398 ++++++++++--------
+ trashapplet/trashapplet-empty-progress.ui |  152 ++++---
+ 7 files changed, 822 insertions(+), 1299 deletions(-)
+
+commit 3147912f61bbf3cd410fee7c560b53a76489f5db
+Author: Kenneth Nielsen <k.nielsen81@gmail.com>
+Date:   Mon May 25 01:44:12 2009 +0200
+
+    Updated Danish translation
+
+ po/da.po |  329 +++++++++++++++++++++++++++++++-------------------------------
+ 1 files changed, 166 insertions(+), 163 deletions(-)
